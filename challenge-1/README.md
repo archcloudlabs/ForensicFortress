@@ -1,8 +1,11 @@
 ### Challenge 1 - The Hidden File
-Flag: flag{carving_bytes_like_its_1999}
+Flag: flag{such_a_good_boi}
 Points: 50
 
-#### Description
+#### Challenge Description
+*I lost my pictures, can you recover them?*
+
+#### Task Description
 Create and format a disk image for competitors to carve out.
 
 #### Possible Ways to Solve
