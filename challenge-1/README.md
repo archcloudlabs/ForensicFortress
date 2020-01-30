@@ -1,4 +1,4 @@
-### Challenge 1 - The Hidden File
+### Challenge 1 - Data Recovery
 Flag: flag{such_a_good_boi}
 Points: 50
 
