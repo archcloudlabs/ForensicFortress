@@ -43,5 +43,6 @@ if [[ $? -eq 0 ]]; then
     echo -e "[+] Successfully created challenge."
 fi
 
-#Used for debugging/verifying flag is there.
-xxd Block_dev.img > check.img
+# Used for debugging/verifying flag is there.
+# xxd Block_dev.img > debug_challenge.img
+# r2 Block_dev.img -c "s 0x17d75c0; px;" -q
